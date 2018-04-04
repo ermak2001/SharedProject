@@ -1,1 +1,2 @@
-# SharedProject - test Hello World
+# SharedProject - Negative automated test
+This is an example
