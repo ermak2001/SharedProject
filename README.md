@@ -1,1 +1,1 @@
-# SharedProject Hello World
+# SharedProject - test Hello World
